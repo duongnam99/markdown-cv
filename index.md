@@ -2,22 +2,22 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Dương Minh Nam
+IT programmer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<!-- <a href="isaac@applesdofall.org">isaac@applesdofall.org</a> -->
+| <a href="duongnam99.github.io">another CV page</a>
 </div>
 
 
-## Currently
+## Hiện tại
 
-Standing on the shoulders of giants
+Sinh viên đại học Bách Khoa Hà Nội
 
-### Specialized in
+### Chuyên ngành
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Khoa học máy tính
 
 
 ### Research interests
