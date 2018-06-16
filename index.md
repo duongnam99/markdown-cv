@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Minh Nam's CV
 ---
 # Dương Minh Nam
 IT programmer.
@@ -20,67 +20,40 @@ Sinh viên đại học Bách Khoa Hà Nội
 Khoa học máy tính
 
 
-### Research interests
+### Lĩnh cực nghiên cứu
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Công nghệ web, dữ liệu lớn,...
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2017`
+__Luc Nam High School.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2017 - now`
+__Hanoi University of Science and Technology__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
 
-- Fellow
+## Giải thưởng
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2013` Huy chương vàng giải toán qua mạng cấp quốc gia
+`2017` Giải nhì vật lý cấp tỉnh, huy chương đồng casio lý cấp tỉnh
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Kĩ năng
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+[Chi tiết](https://duongnam99.github.io/)
 
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Sở thích  
+- Xem phim
+- Nghe nhạc, chơi guitar
+- Đọc sách, báo
+- Tìm hiểu công nghệ
 
 
 
