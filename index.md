@@ -38,8 +38,10 @@ __Hanoi University of Science and Technology__
 
 ## Giải thưởng
 
-`2013` Huy chương vàng giải toán qua mạng cấp quốc gia  và một sô giải thưởng cấp tỉnh, huyện hạng mục thể thao, văn hóa  
-`2017` Giải nhì vật lý cấp tỉnh, huy chương đồng casio lý cấp tỉnh
+`2013`  
+ Huy chương vàng giải toán qua mạng cấp quốc gia  và một sô giải thưởng cấp tỉnh, huyện hạng mục thể thao, văn hóa  
+`2017`   
+Giải nhì vật lý cấp tỉnh, huy chương đồng casio lý cấp tỉnh
 
 
 
